@@ -1,0 +1,6 @@
+user1, car
+user2, phone
+car, automotive
+user2, laptop electronics
+user2, phone electronics
+user1, laptop electronics
