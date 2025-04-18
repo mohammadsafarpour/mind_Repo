@@ -7,3 +7,4 @@ if c == 'hello':
 else :
     print('world')
 print('hi every one')
+print('every one should search around the media')
